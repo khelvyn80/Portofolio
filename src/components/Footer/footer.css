@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+.footer-icon {
+    position: absolute;
+    bottom: 10%;
+    left: 10%;
+    border: 2px solid#CFE6FC;
+    background-color: #CFE6FC;
+}
+
+.footer-icon2 {
+    position: absolute;
+    bottom: 10%;
+    left: 13%;
+    border: 2px solid#CFE6FC;
+    background-color: #CFE6FC;
+}
+
+.footer-icon3 {
+    position: absolute;
+    bottom: 10%;
+    left: 16%;
+    border: 2px solid#CFE6FC;
+    background-color: #CFE6FC;
+}
+
+.footer-icon4 {
+    position: absolute;
+    bottom: 10%;
+    left: 19%;
+    border: 2px solid#CFE6FC;
+    background-color: #CFE6FC;
+}
+
+

@@ -1,0 +1,19 @@
+.head {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+
+.body{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    color: #1f1f25;
+    font-size: 15px;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 20px;
+    width: 80%;
+    letter-spacing: 1px;
+    color: #757575;
+}
